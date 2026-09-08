@@ -1,0 +1,20 @@
+# Data files — large, and downloadable, no need to version-control
+data/
+
+# Trained model weights — same reasoning, regenerable
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
